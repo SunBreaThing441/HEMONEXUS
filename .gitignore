@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Production builds
+dist/
+dist-ssr/
+build/
+
+# Logs & Environment
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+.env.local
+.env.*.local
+
+# Temporary files & Cookies
+*.tmp
+cookies.txt
+org_cookies.txt
+reg_cookies.txt
+temp_*.jsx
+temp_*.js
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
